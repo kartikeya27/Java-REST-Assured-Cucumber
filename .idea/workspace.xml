@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca637590-4946-4207-86e0-0ae693eaf1af" name="Default Changelist" comment="" />
+    <list default="true" id="ca637590-4946-4207-86e0-0ae693eaf1af" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/pojo_withoutBuilder/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pojo_withoutBuilder/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pojo_withoutBuilder/LoginBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pojo_withoutBuilder/Posts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pojo/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pojo/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pojo/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pojo/Location.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pojo/LoginBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pojo/LoginBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pojo/Posts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pojo/Posts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steps/GetPostsSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/GetPostsSteps.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +32,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -27,25 +43,34 @@
     </option>
   </component>
   <component name="ProjectId" id="1QTtxnEIDHpaNYjAPiNo7HjEKnf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567806567713" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.23563218" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test" />
+    </key>
   </component>
-  <component name="RunManager" selected="Cucumber java.Scenario: Verify GET operation with Bearer authentication token">
+  <component name="RunManager" selected="Cucumber java.Scenario: Verify GET operation for complex data">
     <configuration name="Feature: GETPosts" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="1.2" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/GETPosts.feature" />
@@ -142,8 +167,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Cucumber java.Scenario: Verify GET operation with Bearer authentication token" />
         <item itemvalue="Cucumber java.Scenario: Verify GET operation for complex data" />
+        <item itemvalue="Cucumber java.Scenario: Verify GET operation with Bearer authentication token" />
         <item itemvalue="Cucumber java.Scenario: Verify GET operation with Bearer authentication token for json schema validation" />
         <item itemvalue="Cucumber java.Feature: GETPosts" />
       </list>
@@ -178,10 +203,6 @@
     <option featureType="com.intellij.configurationType" implementationName="CucumberJavaRunConfigurationType" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="440" y="162" key="#Plugins" timestamp="1576065148754">
-      <screen x="0" y="23" width="1680" height="947" />
-    </state>
-    <state x="440" y="162" key="#Plugins/0.23.1680.947@0.23.1680.947" timestamp="1576065148754" />
     <state x="371" y="131" key="#Project_Structure" timestamp="1580912182263">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
@@ -190,10 +211,10 @@
       <screen x="0" y="23" width="1680" height="947" />
     </state>
     <state x="653" y="204" key="#com.intellij.ide.util.MemberChooser/0.23.1680.947@0.23.1680.947" timestamp="1578426307671" />
-    <state x="528" y="239" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578050452434">
+    <state x="528" y="239" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1585170288844">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
-    <state x="528" y="239" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1680.947@0.23.1680.947" timestamp="1578050452434" />
+    <state x="528" y="239" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1680.947@0.23.1680.947" timestamp="1585170288844" />
     <state x="578" y="250" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580911907001">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
@@ -202,22 +223,22 @@
       <screen x="0" y="23" width="1680" height="947" />
     </state>
     <state width="446" height="466" key="DebuggerActiveHint/0.23.1680.947@0.23.1680.947" timestamp="1578346883977" />
-    <state width="1638" height="297" key="GridCell.Tab.0.bottom" timestamp="1580916047959">
+    <state width="1638" height="297" key="GridCell.Tab.0.bottom" timestamp="1585174564586">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
-    <state width="1638" height="297" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1580916047959" />
-    <state width="1638" height="297" key="GridCell.Tab.0.center" timestamp="1580916047958">
+    <state width="1638" height="297" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1585174564586" />
+    <state width="1638" height="297" key="GridCell.Tab.0.center" timestamp="1585174564586">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
-    <state width="1638" height="297" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1580916047958" />
-    <state width="1638" height="297" key="GridCell.Tab.0.left" timestamp="1580916047957">
+    <state width="1638" height="297" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1585174564586" />
+    <state width="1638" height="297" key="GridCell.Tab.0.left" timestamp="1585174564585">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
-    <state width="1638" height="297" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1580916047957" />
-    <state width="1638" height="297" key="GridCell.Tab.0.right" timestamp="1580916047958">
+    <state width="1638" height="297" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1585174564585" />
+    <state width="1638" height="297" key="GridCell.Tab.0.right" timestamp="1585174564586">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
-    <state width="1638" height="297" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1580916047958" />
+    <state width="1638" height="297" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1585174564586" />
     <state width="1638" height="220" key="GridCell.Tab.1.bottom" timestamp="1579083886864">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
@@ -234,14 +255,14 @@
       <screen x="0" y="23" width="1680" height="947" />
     </state>
     <state width="1638" height="220" key="GridCell.Tab.1.right/0.23.1680.947@0.23.1680.947" timestamp="1579083886863" />
-    <state x="211" y="60" key="SettingsEditor" timestamp="1580915824477">
+    <state x="211" y="60" key="SettingsEditor" timestamp="1585172843094">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
-    <state x="211" y="60" key="SettingsEditor/0.23.1680.947@0.23.1680.947" timestamp="1580915824477" />
-    <state x="517" y="329" key="com.intellij.ide.util.TipDialog" timestamp="1580915022657">
+    <state x="211" y="60" key="SettingsEditor/0.23.1680.947@0.23.1680.947" timestamp="1585172843094" />
+    <state x="517" y="329" key="com.intellij.ide.util.TipDialog" timestamp="1585172852633">
       <screen x="0" y="23" width="1680" height="947" />
     </state>
-    <state x="517" y="329" key="com.intellij.ide.util.TipDialog/0.23.1680.947@0.23.1680.947" timestamp="1580915022657" />
+    <state x="517" y="329" key="com.intellij.ide.util.TipDialog/0.23.1680.947@0.23.1680.947" timestamp="1585172852633" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/RestAssuredDemo$Scenario__Verify_GET_operation_with_Bearer_authentication_token.ic" NAME="Scenario: Verify GET operation with Bearer authentication token Coverage Results" MODIFIED="1575542724382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
